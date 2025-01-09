@@ -1,0 +1,53 @@
+body{
+    margin-top: 0px;
+    margin-left: 0px;
+    margin-right: 0px;  
+}
+
+/* Navbar */
+#navbar{
+    color: white;
+    background-color: rgb(5, 159, 5);
+}
+
+/* navtext */
+.anc1{
+    text-decoration: none;
+    color: white;
+    text-align: center;
+}
+/* navtext */
+
+
+
+
+
+
+
+
+
+
+
+/* Navlogo */
+#navlogo{
+    display: inline-block;
+    font-family: cursive;
+    padding-left: 30px;
+    padding-right: 10px;
+}
+/* Navlogo */
+
+/* Navsearch */
+#navsearch{
+    padding-left: 20px;
+    padding-right: 200px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 7px;
+}
+/* Navsearch */
+
+
+
+
+/* Navbar */

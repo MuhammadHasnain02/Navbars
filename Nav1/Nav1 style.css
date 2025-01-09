@@ -5,6 +5,7 @@ body{
 
 /* Navbar */
 
+/* navtext */
 .navbar{
     display: flex;
     flex-direction: row;
@@ -29,12 +30,15 @@ body{
     align-items: center;
 }
 
+/* navtext */
+
 /* Navbar logo */
 
 #navlogo{
     font-family: cursive;
     cursor: pointer;
 }
+/* Navbar logo */
 
 /* Navbar search */
 
@@ -47,3 +51,5 @@ body{
 }
 
 /* Navbar search */
+
+/* Navbar */
