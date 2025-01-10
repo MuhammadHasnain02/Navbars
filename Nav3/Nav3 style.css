@@ -5,49 +5,55 @@ body{
 }
 
 /* Navbar */
+
 #navbar{
     color: white;
     background-color: rgb(5, 159, 5);
+    text-align: center;
+    padding-top: 8px;
 }
 
 /* navtext */
 .anc1{
     text-decoration: none;
     color: white;
-    text-align: center;
+    padding-left: 40px;
+    font-family: Arial;
+}
+.anc1:hover{
+    color: black;
+    text-decoration: underline;
 }
 /* navtext */
-
-
-
-
-
-
-
-
-
 
 
 /* Navlogo */
 #navlogo{
     display: inline-block;
     font-family: cursive;
-    padding-left: 30px;
-    padding-right: 10px;
+    margin-right: 140px;
+}
+#navlogo:hover{
+    cursor: pointer;
+    transition: all 0.5s ease-out;
+    transform: scale(0.9);
 }
 /* Navlogo */
+
 
 /* Navsearch */
 #navsearch{
     padding-left: 20px;
-    padding-right: 200px;
+    padding-right: 400px;
     padding-top: 10px;
     padding-bottom: 10px;
     border-radius: 7px;
+    margin-right: 300px;
+}
+#navsearch:focus{
+    transition: all 0.5s ease-in-out;
+    transform: scale(0.95);
 }
 /* Navsearch */
-
-
-
 
 /* Navbar */
