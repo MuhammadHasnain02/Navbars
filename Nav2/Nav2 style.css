@@ -17,9 +17,15 @@ body{
 .navbar>input{
     margin-top: 15px;
     margin-bottom: 15px;
-    padding-left: 20px;
-    padding-right: 200px;
+    padding-left: 40px;
+    width: 400px;
     border-radius: 10px;
+}
+#searchlogo{
+    position: absolute;
+    top: 28px;
+    left: 500px;
+    color: black;
 }
 /* Navbar search */
 
